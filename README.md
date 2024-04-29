@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate with junior programmers
 
-- 📫 How to reach me mostafaeklasi1234@gmail.com
+- 📫 How to reach me mostafaekhlasi1234@gmail.com
 
 <!---
 Mosindica/Mosindica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
